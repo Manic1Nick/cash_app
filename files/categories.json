@@ -1,0 +1,7 @@
+{ 
+    "Food": ["Groceries","Restoraunt"],
+    "Automobile": ["Fuel","Maintance"],
+    "Utilities": ["Internet"],
+    "Salary": [],
+    "Bonuses": []
+}

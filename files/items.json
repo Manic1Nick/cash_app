@@ -1,0 +1,9 @@
+{ 
+	"items" : [
+    	{"date": "07.10.17", "category": "Food", "subCategory": "Groceries", "amount": -2.90, "type": "expense"},
+    	{"date": "07.10.17", "category": "Automobile", "subCategory": "Fuel", "amount": -55.10, "type": "expense"},
+    	{"date": "07.10.17", "category": "Utilities", "subCategory": "Internet", "amount": -8.50, "type": "expense"},
+    	{"date": "07.10.17", "category": "Salary", "subCategory": "", "amount": 200.00, "type": "income"},
+    	{"date": "07.10.17", "category": "Bonus", "subCategory": "", "amount": 40.00, "type": "income"}
+	]
+}
